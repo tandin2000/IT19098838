@@ -12,7 +12,7 @@ Geometry Calculator
 4. Quit
 Enter your choice (1-4):
 Display an error message if the user enters a number outside the range of 1 through 4 when
-selecting an item from the menu.
+selecting an item from the menu.<br>
 Ouestion 2
 Solves the,Write a Lottery class that simulates a lottery.
 The class should have an array of five integers named lotteryNumbers.The constructor should
